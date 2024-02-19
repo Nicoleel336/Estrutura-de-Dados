@@ -1,0 +1,1 @@
+ashMap: " + (tempoFinal - tempoInicial) + " ns");
